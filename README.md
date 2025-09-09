@@ -10,5 +10,5 @@ O robo sumo contem:
 6. Dois motores e duas rodas para movimentação do robo;
 7. Um botão chave on/off.
   
-link para fotos e videos do projeto: https://drive.google.com/drive/folders/1Z_Er2qyiDnfSvDzplCCuHH4wAe0uLoRA?usp=sharing
+
    
